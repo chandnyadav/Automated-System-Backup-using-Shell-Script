@@ -1,12 +1,4 @@
-
-# Project: Automated System Backup using Shell Script
-
-**Objective:**
-To create an automated backup system using shell scripting that ensures regular and consistent backups of critical data, leveraging various tools to optimize the process and ensure data security.
-
-**Tech Stack:** Shell Script, Cron Jobs, rsync, tar, AWS S3
-
-**Steps and Detailed Explanation:**
+ 
 
 1. **Shell Script Development:**
    - **Objective:** Automate the backup process.
